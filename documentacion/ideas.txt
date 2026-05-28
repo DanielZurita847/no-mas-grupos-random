@@ -1,0 +1,20 @@
+FUNCIONES PRINCIPALES
+- Crear perfiles estudiantiles con habilidades y fortalezas
+- Publicar las habilidades que necesita un equipo
+- Sistema de calificaciones entre compañeros
+- Recomendación de estudiantes compatibles
+- Historial de desempeño en proyectos grupales
+
+VENTAJAS
+- Evita grupos formados al azar
+- Mejora la organización del trabajo colaborativo
+- Reduce estudiantes que no aportan al equipo
+- Permite encontrar compañeros responsables
+- Genera grupos más equilibrados y eficientes
+
+MEJORAS FUTURAS
+- Chat interno para equipos
+- Integración con universidades
+- Inteligencia artificial para formar grupos automáticamente
+- Estadísticas de rendimiento estudiantil
+- Sistema de recompensas para estudiantes destacados
